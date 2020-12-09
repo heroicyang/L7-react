@@ -9,7 +9,7 @@ export * from './component/Layer';
 export { LayerEvent } from './component/LayerEvent';
 export { useSceneValue, SceneContext } from './component/SceneContext';
 export { useLayerValue, LayerContext } from './component/LayerContext';
-export { ColorComponent } from './component/Legend/color';
+// export { ColorComponent } from './component/Legend/color';
 export { default as Popup } from './component/Popup';
 export { default as Marker } from './component/Marker';
 export { default as SceneEvent } from './component/SceneEvent';
